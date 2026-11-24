@@ -1,78 +1,21 @@
 #EXTM3U
- 
-#EXTINF:-1 ,TV Chile [INTL]
+#EXTINF:-1,TV Chile [INTL]
 http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 ,TVN HD
-http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8
-#EXTINF:-1 ,TVN 3 HD
+#EXTINF:-1,TVN 3 HD
 http://mdstrm.com/live-stream-playlist-v/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 ,24 Horas Play
+#EXTINF:-1,24 Horas Play
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1 ,TVN HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com:80/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,MEGA
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=cqL7GT9JCnGRyqXE7mZbdYOYIz5P63h3&sid=IC9nUIImT0cKfsu6Kr1Fyz5RHhexVe1A&pid=oOaEDWLDjceI1R47avPaC1dIFk4b9Jz4&an=screen&at=web-app&av=v5.2.435&ref=https%3A%2F%2Fwww.mega.cl%2F&res=664x374&without_cookies=false&listenerid=&dnt=true&access_token=5k02cT2UBc7lmKGBnWDkqKetqmTVLGDfOq5dCeLczRp3tcKvOFsnYBfFFdAiT92gOqMbxoqAYXi&adInsertionSessionId=7638c358-6596-4f81-9c82-ee49a5b817be
-#EXTINF:-1 ,MEGA PLUS
-http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16319.rtmp
-#EXTINF:-1 ,Meganoticias
-https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-#EXTINF:-1 ,Canal 13 
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/cafdf5b1-1f09-4845-86e7-fa28df6b004a:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
-#EXTINF:-1 ,Canal 13c [VTR]
-http://live1.cl.cdn.lla.vtrplay.com:80/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,Canal 13 [VTR]
-http://live1.cl.cdn.lla.vtrplay.com:80/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,REC TV [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,T13 en Vivo
+#EXTINF:-1,T13 en Vivo
 https://jireh-3-hls-video-cl-vtr.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8
-#EXTINF:-1 ,Chilevision HD
-https://chilevision-mdstrm.akamaized.net/live-stream-secure/5c928b7f6d6f41084bdae898/publish/media_2500.m3u8
-#EXTINF:-1 ,Chilevision HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,TV Más
-http://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-#EXTINF:-1 ,UCV 3
+#EXTINF:-1,UCV 3
 http://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
-#EXTINF:-1 ,La RED
-http://d5jxn18we1fqw.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1,Radio Bio Bio TV
 http://jireh-3-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1,Radio Agricultura
 http://unlimited6-cl.dps.live/921tv/921tv.smil/921tv/livestream2/chunks.m3u8
-#EXTINF:-1 ,Camara de Diputados TV (CDTV)
-http://camara.03.wl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 ,Senado TV HD
+#EXTINF:-1,Senado TV HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 ,Senado TV SD
+#EXTINF:-1,Senado TV SD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-#EXTINF:-1 ,CNN Chile
-http://unlimited1-cl.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1 ,TVR
-http://unlimited1-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream0/chunks.m3u8
-#EXTINF:-1 ,UES TV HD
-http://tls-cl.cdnz.cl/uestv/live/chunklist_w2100484087.m3u8
-#EXTINF:-1 ,Canal 2 San Antonio
+#EXTINF:-1,Canal 2 San Antonio
 http://unlimited2-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
-#EXTINF:-1 ,GiroVisual [El Quisco]
-http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
-#EXTINF:-1 ,Canal 9 SD [Concepción]
-http://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
-#EXTINF:-1 ,CEAC TV HD
-http://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
-#EXTINF:-1 ,Tevex HD
-http://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Mundo TV
-http://tvup-ccpv2-live.secure2.footprint.net/mundotv/mundotv.mpd
-#EXTINF:-1 ,El Pinguino TV [Punta Arenas]
-http://jireh-1-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/pinguinotv/livestream2/chunks.m3u8
-#EXTINF:-1 ,El Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:-1 ,TNT Sports 3 Normal HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,Studio Universal HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,Zona Latina HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 ,Disney Channel HD [VTR]
-http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
