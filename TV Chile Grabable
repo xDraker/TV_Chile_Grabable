@@ -85,3 +85,5 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8
 #EXTINF:-1,ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,Canal 9 Bío Bí­o TV
+https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
