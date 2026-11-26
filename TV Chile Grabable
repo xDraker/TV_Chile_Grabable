@@ -1,26 +1,28 @@
 #EXTM3U
 #EXTINF:-1,TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8
+#EXTINF:-1,TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1,24 Horas Play
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1,Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:-1,T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1,T13 en Vivo
+https://jireh-3-hls-video-cl-vtr.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8
+#EXTINF:-1,T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1,Chilevisión
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1,Chilevisión Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1,Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1,Meganoticias
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
-#EXTINF:-1,Chilevisión Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1,24 Horas Play
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-#EXTINF:-1,T13 en Vivo
-https://jireh-3-hls-video-cl-vtr.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8
-#EXTINF:-1,Radio Bio Bio TV
-http://jireh-3-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
-#EXTINF:-1,Radio Agricultura
-http://unlimited6-cl.dps.live/921tv/921tv.smil/921tv/livestream2/chunks.m3u8
-#EXTINF:-1,Radio Agricultura 2 | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+#EXTINF:-1,La Red
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
 #EXTINF:-1,Cámara de Diputados HD
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
 #EXTINF:-1,Senado TV HD
@@ -66,42 +68,23 @@ https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1,Cariñosa FM
 https://archi-us.digitalproserver.com/carinosa-fm.aac
 #EXTINF:-1,La Tercera TV | CL
-https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8?PlaylistM3UCL
-#EXTINF:-1,Gobierno de Chile | CL
-https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8
+#EXTINF:-1,Radio Bio Bio TV
+http://jireh-3-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+#EXTINF:-1,Radio Agricultura
+http://unlimited6-cl.dps.live/921tv/921tv.smil/921tv/livestream2/chunks.m3u8
+#EXTINF:-1,Radio Agricultura 2 | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
 #EXTINF:-1,Radio Duna | CL
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1,Pudahuel FM | CL
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1,Cooperativa | CL
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1,Cooperativa Ciencia | CL
-https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8
 #EXTINF:-1,ADN | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1,Canal 9 Bío Bí­o TV | CL
-https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-#EXTINF:-1,NTV
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1,TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1,La Red
-https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8?PlaylistM3UCL
-#EXTINF:-1,Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,13 Internacional
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Canal 13
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,13 go
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1,T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,T13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+
