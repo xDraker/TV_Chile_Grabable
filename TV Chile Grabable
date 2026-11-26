@@ -67,24 +67,24 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1,Cariñosa FM
 https://archi-us.digitalproserver.com/carinosa-fm.aac
-#EXTINF:-1,La Tercera TV | CL
+#EXTINF:-1,La Tercera TV
 https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8
 #EXTINF:-1,Radio Bio Bio TV
 http://jireh-3-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1,Radio Agricultura
 http://unlimited6-cl.dps.live/921tv/921tv.smil/921tv/livestream2/chunks.m3u8
-#EXTINF:-1,Radio Agricultura 2 | CL
+#EXTINF:-1,Radio Agricultura 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:-1,Radio Duna | CL
+#EXTINF:-1,Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1,Pudahuel FM | CL
+#EXTINF:-1,Pudahuel FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1,Cooperativa | CL
+#EXTINF:-1,Cooperativa
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:-1,Cooperativa Ciencia | CL
+#EXTINF:-1,Cooperativa Ciencia
 https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8
-#EXTINF:-1,ADN | CL
+#EXTINF:-1,ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1,Canal 9 Bío Bí­o TV | CL
+#EXTINF:-1,Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 
